@@ -1,0 +1,28 @@
+{
+  "name": "fishkeeper",
+  "version": "1.0.0",
+  "description": "> \"I wish I wish I was a fish\" --- This repo is the Week 4 challenge of the CN Master Bootcamp",
+  "type": "module",
+  "main": "fishClass.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node init.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uglyfish1991/fishkeeper_sim.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uglyfish1991/fishkeeper_sim/issues"
+  },
+  "homepage": "https://github.com/uglyfish1991/fishkeeper_sim#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "figlet": "^1.5.2",
+    "inquirer": "^9.0.2",
+    "typewriter-effect": "^2.19.0"
+  }
+}
